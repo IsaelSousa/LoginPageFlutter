@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:loginpage/controller/email_controller.dart';
 import 'package:loginpage/screen/password_screen.dart';
-import 'package:loginpage/screen/splash_screen.dart';
 import 'package:loginpage/shared/themes/colors_theme.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:loginpage/shared/themes/svg_theme.dart';
 import 'package:loginpage/shared/widgets/input_widget.dart';
-
 
 class EmailScreen extends StatefulWidget {
   const EmailScreen({ Key? key }) : super(key: key);

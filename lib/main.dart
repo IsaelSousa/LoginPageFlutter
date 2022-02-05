@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'app_widget.dart';
-
+import 'package:loginpage/app_widget.dart';
 void main() {
-  runApp(const MyApp());
+  runApp(const AppWidget());
 }
-
-
-
